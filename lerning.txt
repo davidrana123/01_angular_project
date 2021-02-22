@@ -1,0 +1,7 @@
+1-making app
+2-making controller
+3-vrival ko associted krna 
+4-two way data Binding
+5-API create use http
+6-making url
+7-url call krna 
